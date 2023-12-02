@@ -1,2 +1,6 @@
-# VS Codeの設定ファイルはGit管理から除外する
+# VS Codeの設定ファイルは除外する
 .vscode/*
+
+# ログファイルは除外する
+*.log
+.gitignore
